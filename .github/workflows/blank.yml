@@ -22,19 +22,13 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, CI!
-
-      name: Icons
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.topics.icons.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_topics: yes
-        plugin_topics_limit: 0
-        plugin_topics_mode: icons
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
