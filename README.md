@@ -1,14 +1,37 @@
-### Stats 👋
+# Hi there! 👋
 
-![vitamin33's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitamin33&hide=contribs&theme=merko).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitamin33&theme=merko&layout=compact)](https://github.com/vitamin33/github-readme-stats)
+Welcome to my GitHub profile! Dancing with bytes, taming wild APIs, and juggling stacks. Welcome to my software circus!
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitamin33)](https://github.com/anuraghazra/github-readme-stats)
- -->
+## 📊 GitHub Stats
 
- <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitamin33&theme=merko" alt="vitamin33" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitamin33&hide=contribs&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamin33&theme=merko&layout=compact" alt="Top Languages" />
 </div>
 
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitamin33&theme=merko" alt="Streak Stats" />
+</div>
+
+## ☕️ Buy Me a Coffee
+
+If you appreciate my work and would like to support me, you can buy me a coffee!
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/gbraad" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
+  </a>
+</div>
+
+## 🌐 Connect
+
+Let's connect and collaborate! You can find me on:
+
+- [LinkedIn]([link](https://www.linkedin.com/in/vitalii-serbyn-b517a083/))
+- [Twitter]([link](https://twitter.com/B_serbin))
+
+Feel free to reach out and let's build something awesome together!
 
 
