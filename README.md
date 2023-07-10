@@ -29,8 +29,8 @@ If you appreciate my work and would like to support me, you can buy me a coffee!
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/vitalii-serbyn-b517a083/))
-- [Twitter]([link](https://twitter.com/B_serbin))
+- [LinkedIn](https://www.linkedin.com/in/vitalii-serbyn-b517a083/)
+- [Twitter](https://twitter.com/B_serbin)
 
 Feel free to reach out and let's build something awesome together!
 
