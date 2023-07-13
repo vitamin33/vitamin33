@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! Dancing with bytes, taming wild APIs, and juggling stacks. Welcome to my software circus!
+Dancing with bytes, taming wild APIs, and juggling stacks. Welcome to my software circus!
 
 ## 📊 GitHub Stats
 
