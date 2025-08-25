@@ -23,9 +23,9 @@ A public PoC that shows senior backend practices + LLM orchestration in one repo
 ---
 
 ## Recent highlights
-- **Creative Coach (FastAPI + Celery):** streaming insights over WebSockets; **multi-model routing cut serving cost ~98%** with 50+ tracked metrics in MLflow.  
-- **Flutter UI Library Lead:** 120+ reusable widgets adopted across apps; feature lead time improved by ~40%.  
-- **Android BLE (sports insole):** full GATT profile (scan/bond, R/W, notify), background reconnection, field diagnostics with nRF Connect.
+- **Creative Coach (FastAPI + Celery):** streaming insights over SSE/WebSockets; multi-model routing with OpenAI-compatible clients cut serving cost by **~98%**; tracked **50+** experiment metrics in MLflow with Prometheus/Grafana dashboards.
+- **AI Agent Development System:** multi-agent dev platform with real-time telemetry, eval gates, prompt governance, canary + rollback, and local-model support (Ollama / llama.cpp / vLLM). Saves **~13.5–31 h/week** in my workflow and improves DORA-style outcomes.
+- **RAGline (public PoC):** streaming-first Python backend with JWT multi-tenancy, idempotent writes, outbox → Redis Streams, and `/chat` orchestration with RAG (Qdrant/pgvector). Local model switch via `OPENAI_API_BASE`; first-token and p95 latency measured with OpenTelemetry.
 
 ---
 
