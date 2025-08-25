@@ -1,4 +1,4 @@
-# Hi, I'm Vitalii — Senior Backend (Python) & Full-Stack Flutter Engineer
+# Hi, I'm Vitalii — Senior Full-Stack Engineer
 
 I build **streaming-first backends** and **mobile apps** that are easy to operate: clear APIs, solid tests, and dashboards that tell the truth. Lately I’ve focused on **LLM-powered features** with measurable latency, cost, and reliability.
 
