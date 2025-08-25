@@ -9,7 +9,7 @@ I build **streaming-first backends** and **mobile apps** that are easy to operat
 
 ---
 
-## What I’m building now — **RAGline**
+## What I’m building now — **[RAGline](https://github.com/vitamin33/ragline)**
 A public PoC that shows senior backend practices + LLM orchestration in one repo.
 
 - **FastAPI** service with **JWT multi-tenancy**, typed contracts, and **SSE/WebSocket** streaming  
