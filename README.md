@@ -35,7 +35,7 @@ A public PoC that shows senior backend practices + LLM orchestration in one repo
 **AI/LLM:** OpenAI API, RAG with Qdrant/pgvector, MLflow; local models via **Ollama / llama.cpp / vLLM**  
 **Observability:** Prometheus, Grafana, OpenTelemetry, Sentry  
 **Mobile:** Flutter, Dart (BLoC/Cubit, Provider, auto_route), Android/Kotlin (BLE)  
-**Cloud (used/familiar):** AWS (Lambda, AppSync, DynamoDB), GCP (GKE/Cloud Run), Firebase
+**Cloud:** AWS (Lambda, AppSync, DynamoDB), GCP (GKE/Cloud Run), Firebase
 
 ---
 
