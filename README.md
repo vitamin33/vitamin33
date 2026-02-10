@@ -1,58 +1,126 @@
-# Hi, I'm Vitalii — Senior Full-Stack Engineer
+# Hi, I'm Vitalii — AI Engineer & Solutions Architect
 
-I build **streaming-first backends** and **mobile apps** that are easy to operate: clear APIs, solid tests, and dashboards that tell the truth. Lately I’ve focused on **LLM-powered features** with measurable latency, cost, and reliability.
+I design and build **production AI systems** — multi-agent pipelines, RAG architectures, 
+and LLM applications with measurable quality, latency, and cost. 
+11+ years of backend engineering means my AI systems come with proper observability, 
+testing, and deployment practices baked in.
 
-- **Backend:** Python (FastAPI, AsyncIO, Pydantic v2), SQLAlchemy 2.0, Celery, PostgreSQL, Redis  
-- **AI:** OpenAI API, pragmatic **RAG** (Qdrant/pgvector), **MLflow** experiments, **local models** via **Ollama / llama.cpp / vLLM**  
-- **Ops:** Docker, GitHub Actions, **Prometheus + Grafana**, **OpenTelemetry** tracing, Sentry  
-- **Mobile:** Flutter (Dart, BLoC/Cubit, Provider, auto_route), Android/Kotlin (incl. **BLE/GATT**)
+## 🤖 AI & LLM Stack
 
----
+| Category | Technologies |
+|----------|-------------|
+| **Orchestration** | LangGraph, LangChain, Multi-Agent Systems |
+| **RAG & Vectors** | Qdrant, pgvector, Embeddings, Reranking |
+| **LLMOps** | LangSmith, Langfuse, OpenTelemetry, MLflow |
+| **Models** | OpenAI, Anthropic Claude, Ollama, vLLM, llama.cpp |
+| **Evaluation** | Custom eval pipelines, LLM-as-Judge, A/B testing |
 
-## What I’m building now — **[RAGline](https://github.com/vitamin33/ragline)**
-A public PoC that shows senior backend practices + LLM orchestration in one repo.
+## 🔧 Engineering Foundation
 
-- **FastAPI** service with **JWT multi-tenancy**, typed contracts, and **SSE/WebSocket** streaming  
-- **Idempotent writes**, **outbox → Redis Streams** fan-out, retries, DLQ  
-- **Observability first:** route histograms, cache hit ratio, stream lag; **OTel traces** across API → DB → Redis → worker  
-- **/chat orchestration** with tool calls and **RAG**; switch to **local models** by setting `OPENAI_API_BASE`  
-- **CI/CD** with lint/type/tests + ownership guards; small PRs, fast merges
-
-> Why it matters: you can see **p50/p95** numbers, traces, and the exact code that keeps releases predictable.
-
----
-
-## Recent highlights
-- **Creative Coach (FastAPI + Celery):** streaming insights over SSE/WebSockets; multi-model routing with OpenAI-compatible clients cut serving cost by **~98%**; tracked **50+** experiment metrics in MLflow with Prometheus/Grafana dashboards.
-- **AI Agent Development System:** multi-agent dev platform with real-time telemetry, eval gates, prompt governance, canary + rollback, and local-model support (Ollama / llama.cpp / vLLM). Saves **~13.5–31 h/week** in my workflow and improves DORA-style outcomes.
-- **RAGline (public PoC):** streaming-first Python backend with JWT multi-tenancy, idempotent writes, outbox → Redis Streams, and `/chat` orchestration with RAG (Qdrant/pgvector). Local model switch via `OPENAI_API_BASE`; first-token and p95 latency measured with OpenTelemetry.
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | Python, FastAPI, AsyncIO, Pydantic v2, Celery |
+| **Data** | PostgreSQL, Redis, SQLAlchemy 2.0 |
+| **Infra** | Docker, K8s, AWS, GCP, GitHub Actions |
+| **Observability** | Prometheus, Grafana, Sentry, OpenTelemetry |
 
 ---
 
-## Tech I use (and enjoy)
-**Python:** FastAPI, AsyncIO, Pydantic v2, SQLAlchemy 2.0, Celery  
-**Data/Infra:** PostgreSQL, Redis, Docker, GitHub Actions  
-**AI/LLM:** OpenAI API, RAG with Qdrant/pgvector, MLflow; local models via **Ollama / llama.cpp / vLLM**  
-**Observability:** Prometheus, Grafana, OpenTelemetry, Sentry  
-**Mobile:** Flutter, Dart (BLoC/Cubit, Provider, auto_route), Android/Kotlin (BLE)  
-**Cloud:** AWS (Lambda, AppSync, DynamoDB), GCP (GKE/Cloud Run), Firebase
+## 🚀 Featured Projects
+
+### Crest — AI Content Marketing Platform
+> *Full-stack AI SaaS I'm building as a solo founder*
+
+- **11-node LangGraph pipeline** for content generation
+- **Thompson Sampling** (Multi-Armed Bandit) for content optimization
+- **Voice Training** via RAG — AI that sounds like you, not a robot
+- **Multi-platform publishing** (Twitter, LinkedIn, Threads)
+- Stack: FastAPI + LangGraph + Qdrant + Next.js
+
+**Why it matters:** Combines ML (Thompson Sampling) with LLM orchestration — 
+a unique approach no competitor uses.
 
 ---
 
-## How I work
-- **Contract-first:** OpenAPI & event schemas before code  
-- **Metrics-first:** set SLOs, watch p95, fix root causes, add a safeguard  
-- **CI discipline:** tests, lint, types, security checks on every PR  
-- **Small batches:** feature flags, frequent releases, clean rollbacks  
-- **Leadership:** led **3 teams (2–6 devs)**; set review/testing standards; mentor kindly, ship steadily
+### RAGline — Production RAG Backend (Public PoC)
+> *[github.com/vitamin33/ragline](link)*
+
+Demonstrates senior backend practices + LLM orchestration:
+
+- FastAPI with JWT multi-tenancy, SSE/WebSocket streaming
+- `/chat` endpoint with tool calling and RAG (Qdrant/pgvector)
+- Idempotent writes, outbox → Redis Streams, retries, DLQ
+- **Full observability:** p50/p95 latency, cache hit ratio, OTel traces
+- Switch to local models via `OPENAI_API_BASE`
+
+**Why it matters:** Production-ready patterns for AI backends — 
+not just a demo, but code you can trust in prod.
 
 ---
 
-## Contact
-- **Email:** serbyn.vitalii@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/vitalii-serbyn-b517a083/  
-- **Portfolio:** https://serbyn.pro
+### AI Agent Development System
+> *Multi-agent platform for autonomous development*
 
+- Real-time telemetry and eval gates
+- Prompt governance with version control
+- Canary deployments + automatic rollback
+- Local model support (Ollama / vLLM)
+- **Result:** Saves 13-31 hours/week in my workflow
+
+---
+
+### Creative Coach — AI Marketing Insights
+> *FastAPI + Celery streaming service*
+
+- SSE/WebSocket streaming insights
+- **Multi-model routing** — cut serving cost by ~98%
+- 50+ experiment metrics in MLflow
+- Prometheus/Grafana dashboards
+
+---
+
+## 💡 How I Approach AI Systems
+```
+┌─────────────────────────────────────────────────────────────┐
+│  1. EVALUATION FIRST                                        │
+│     → Define "good" before building                         │
+│     → Measurable quality, not vibes                         │
+├─────────────────────────────────────────────────────────────┤
+│  2. OBSERVABILITY FROM DAY 1                                │
+│     → Traces, latency, cost per request                     │
+│     → Debug AI systems like backend systems                 │
+├─────────────────────────────────────────────────────────────┤
+│  3. PRODUCTION-GRADE DEFAULTS                               │
+│     → Retries, DLQ, graceful degradation                    │
+│     → AI failures shouldn't break user experience           │
+├─────────────────────────────────────────────────────────────┤
+│  4. COST-AWARE ARCHITECTURE                                 │
+│     → Model routing, caching, batching                      │
+│     → Measure $/request, optimize deliberately              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 👥 Leadership
+
+- Led **3 engineering teams** (2-6 developers each)
+- Mentored Junior → Senior developers
+- Established code review and testing standards
+- Tech Lead for Android, Backend, and Full-Stack projects
+
+---
+
+## 📫 Contact
+
+- **Email:** serbyn.vitalii@gmail.com
+- **LinkedIn:** [linkedin.com/in/vitalii-serbyn-b517a083](https://www.linkedin.com/in/vitalii-serbyn-b517a083/)
+- **Portfolio:** [serbyn.pro](https://serbyn.pro)
+
+---
+
+*Currently exploring AI Solutions Architect roles and building [Crest](https://usecrest.io) — 
+an AI content platform for indie hackers.*
 ---
 
 ## GitHub Stats
