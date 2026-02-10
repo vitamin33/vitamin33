@@ -119,8 +119,7 @@ not just a demo, but code you can trust in prod.
 
 ---
 
-*Currently exploring AI Solutions Architect roles and building [Crest](https://usecrest.io) — 
-an AI content platform for indie hackers.*
+### Currently exploring AI Solutions Architect roles and building [Crest](https://usecrest.io) — an AI content platform for indie hackers.
 ---
 
 ## GitHub Stats
