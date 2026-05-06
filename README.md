@@ -2,7 +2,7 @@
 
 I design and build **production AI systems** — multi-agent pipelines, RAG architectures, 
 and LLM applications with measurable quality, latency, and cost. 
-11+ years of backend engineering means my AI systems come with proper observability, 
+12+ years of software engineering means my AI systems come with proper observability, 
 testing, and deployment practices baked in.
 
 ## 🤖 AI & LLM Stack
