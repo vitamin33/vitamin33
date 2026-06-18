@@ -114,7 +114,7 @@ not just a demo, but code you can trust in prod.
 ## 📫 Contact
 
 - **Email:** serbyn.vitalii@gmail.com
-- **LinkedIn:** [linkedin.com/in/vitalii-serbyn-b517a083](https://www.linkedin.com/in/vitalii-serbyn-b517a083/)
+- **LinkedIn:** [linkedin.com/in/vitalii-serbyn-b517a083](https://www.linkedin.com/in/vitalii-serbyn/)
 - **Portfolio:** [serbyn.pro](https://serbyn.pro)
 
 ---
