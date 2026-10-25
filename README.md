@@ -5,6 +5,8 @@ and LLM applications with measurable quality, latency, and cost.
 12+ years of software engineering means my AI systems come with proper observability, 
 testing, and deployment practices baked in.
 
+More on what I do now and the numbers behind it: [serbyn.io](https://serbyn.io).
+
 ## 🤖 AI & LLM Stack
 
 | Category | Technologies |
@@ -115,7 +117,8 @@ not just a demo, but code you can trust in prod.
 
 - **Email:** serbyn.vitalii@gmail.com
 - **LinkedIn:** [linkedin.com/in/vitalii-serbyn-b517a083](https://www.linkedin.com/in/vitalii-serbyn/)
-- **Portfolio:** [serbyn.pro](https://serbyn.pro)
+- **Site:** [serbyn.io](https://serbyn.io)
+- **Writing:** [serbyn.io/writing](https://serbyn.io/writing), latest: [I built a tool to catch agents saying "tests pass" without proof. It was wrong 43 times out of 46](https://serbyn.io/blog/proof-of-green-checks-every-done)
 
 ---
 
